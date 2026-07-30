@@ -25,7 +25,7 @@
 
 # 📖 About
 
-This repository contains my **Personal Portfolio Website**, developed during my **CodeAlpha Web Development Internship**.
+This repository contains my **Personal Portfolio Website**, developed during my **CodeAlpha Frontend Development Internship**.
 
 It serves as my digital résumé, showcasing my education, technical skills, projects, certifications, achievements, internship experience, and professional journey. Built with **HTML5, CSS3, and Vanilla JavaScript**, it features a modern glassmorphism UI, smooth animations, and a fully responsive layout.
 
@@ -104,7 +104,7 @@ It serves as my digital résumé, showcasing my education, technical skills, pro
 ### Clone Repository
 
 ```bash
-git clone https://github.com/furqanzubair209-cell/Portfolio.git
+git clone https://github.com/furqanzubair209-cell/Portfolio Website.git
 ```
 
 ### Navigate
