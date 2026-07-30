@@ -1,1 +1,1 @@
-Web development & designing INTERNSHIP at #OASIS INFOBYTE
+Frontend development & designing INTERNSHIP at #CodeAlpha
