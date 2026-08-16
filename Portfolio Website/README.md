@@ -56,7 +56,7 @@ It serves as my digital résumé, showcasing my education, technical skills, pro
 
 # 🌐 Live Demo
 
-### 🚀 https://furqanweb.netlify.app/
+### 🚀 https://furqannewportfolio.netlify.app/
 
 ---
 
