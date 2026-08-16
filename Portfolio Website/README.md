@@ -123,7 +123,7 @@ Simply open **index.html** in your browser.
 
 <p align="center">
 
-<a href="https://furqanweb.netlify.app/">
+<a href="https://furqannewportfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
