@@ -97,27 +97,6 @@ It serves as my digital résumé, showcasing my education, technical skills, pro
 | 📄 Resume         | Download CV                 |
 | 📬 Contact        | Contact Information         |
 
----
-
-# 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/furqanzubair209-cell/Portfolio Website.git
-```
-
-### Navigate
-
-```bash
-cd Portfolio
-```
-
-### Run
-
-Simply open **index.html** in your browser.
-
----
 
 # 📬 Connect With Me
 
