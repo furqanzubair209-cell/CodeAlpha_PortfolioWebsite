@@ -14,7 +14,7 @@
 </p>
 
 <p>
-<a href="https://furqanweb.netlify.app/">
+<a href=https://furqannewportfolio.netlify.app/>
 <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-00C853?style=for-the-badge">
 </a>
 </p>
